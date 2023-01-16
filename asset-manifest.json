@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2accf49.css",
+    "main.js": "/static/js/main.3403b902.js",
+    "static/media/kalyan.gif": "/static/media/kalyan.c221c318d5465356db43.gif",
+    "static/media/orbitz.gif": "/static/media/orbitz.c221c318d5465356db43.gif",
+    "static/media/ApnaMart.PNG": "/static/media/ApnaMart.aee08db5798fc06d9882.PNG",
+    "static/media/Pharmeasy.png": "/static/media/Pharmeasy.7178a81615965c3a9028.png",
+    "static/media/pic.jpg": "/static/media/pic.eab27c079f632694fb57.jpg",
+    "static/media/slide2.webp": "/static/media/slide2.4772974ea0524feaad68.webp",
+    "static/media/background.webp": "/static/media/background.f68146215cd63c0647c5.webp",
+    "index.html": "/index.html",
+    "main.d2accf49.css.map": "/static/css/main.d2accf49.css.map",
+    "main.3403b902.js.map": "/static/js/main.3403b902.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2accf49.css",
+    "static/js/main.3403b902.js"
+  ]
+}
